@@ -1,0 +1,1 @@
+# BlazorServerPostgresqlDotnet6
